@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+
+<!-- PUT THE NAME OF YOUR PODCAST SITE HERE -->
+<title>Free Beer &amp; Fiction</title>
+
+<!-- PLACE A BRIEF DESCRIPTION OF YOUR SITE HERE -->
+<description>Free Beer &amp; Fiction is a creative writing workshop in which participants were given a month to write a short story, based on a specific topic, to be read aloud in under 20 minutes in front of an audience. Best enjoyed with a beer.</description>
+
+<!-- PLACE THE URL LINK TO YOUR SITE WITH HTTP:// -->
+<link>http://www.freebeerandfiction.com/</link>
+
+<!-- NAME OF COPYRIGHT HOLDER -->
+<copyright>Presented By The VIA Agency &#xA9; 2014 - 2015</copyright>
+
+<!-- WHAT LANGUAGE (this is englsh) -->
+<language>en-gb</language>
+
+<!-- DATE YOU BUILT THIS PODCAST -->
+<lastBuildDate>Wed, 02 Oct 2002 08:00:00 EST</lastBuildDate>
+
+<!-- put in a subtitle for your site -->
+<itunes:subtitle>To Beer That's Cold &amp; Stories Well Told</itunes:subtitle>
+
+<!-- main text that will describe your site in your podcast -->
+<itunes:summary>Free Beer &amp; Fiction is a creative writing workshop in which participants were given a month to write a short story, based on a specific topic, to be read aloud in under 20 minutes in front of an audience. Best enjoyed with a beer.</itunes:summary>
+
+<!-- what catagory decribes you, choose a few -->
+<itunes:category text="Comedy"/>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+<itunes:category text="Personal Journals"/>
+</itunes:category>
+
+<!-- key word to help search, comma between each word -->
+<itunes:keywords>Free Beer &amp; Fiction, Storytelling, The VIA Agency, Spken Word, Fiction, Live, Beer, Free Beer, Creative Writing</itunes:keywords>
+
+<!-- author name -->
+<itunes:author>The VIA Agency</itunes:author>
+	
+<!-- details of who runs this site -->
+<itunes:owner>
+	
+	<!-- your main email account so they can contact you if there is a problem -->
+	<itunes:email>freebeerandfiction@theviaagency.com</itunes:email>
+		
+	<!-- contact name -->
+	<itunes:name>The VIA Agency</itunes:name>
+	
+<!-- close owner section -->
+</itunes:owner>
+	
+<!-- location of image to be used on your site, href="http://..........." location on your web server -->
+<itunes:image href="http://freebeerandfiction.com/img/FBAF_logo.png"/>
+
+<!-- explicit - yes/no -->
+<itunes:explicit>yes</itunes:explicit>
+
+
+
+<!-- CHAPTER 1 - STORY 1 - KATHLEEN PARR  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: I'll Go First - Kathleen Parr</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-IllGoFirst.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-IllGoFirst.mp3" length="412" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-IllGoFirst.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 28:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:52</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Kathleen Parr, I'll Go First, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Kathleen Parr</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 1 - STORY 2 - CHRIS GILBERT  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: FBAND - Chris Gilbert</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Fband.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Fband.mp3" length="363" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Fband.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 28:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:13</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Chris Gilbert, FBAND, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Chris Gilbert</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>No</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 1 - STORY 3 - STEVE HOLT  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: The Rattrap - Steve Holt</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Rattrap.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Rattrap.mp3" length="949" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Rattrap.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 28:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>15:49</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Steve Holt, The Rattrap, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Steve Holt</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 1 - STORY 4 - TEDDY STOECKLEIN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: It Was Quick - Teddy Stoecklein</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-ItWasQuick.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-ItWasQuick.mp3" length="466" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-ItWasQuick.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 28:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>07:46</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Teddy Stoecklein, It Was Quick, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Teddy Stoecklein</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+
+<!-- close whole channel information, end of podcast -->
+</channel>
+ 
+<!-- close rss feed -->
+</rss>

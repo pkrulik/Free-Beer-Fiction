@@ -1,0 +1,100 @@
+    @mixin transition($transition-property, $transition-time, $method) {
+        -webkit-transition: $transition-property $transition-time $method;
+        -moz-transition: $transition-property $transition-time $method;
+        -ms-transition: $transition-property $transition-time $method;
+        -o-transition: $transition-property $transition-time $method;
+        transition: $transition-property $transition-time $method;
+    }
+    
+    body, html {
+        /* overflow-x: hidden !important;  */
+        height:100%;
+    }
+    
+    body.touch {
+        
+        .all-play .icon-download {display:none;}
+        .all-play .icon-download.podcast {display:inline;}
+        
+        a.big-download {display:none;}
+        a.big-podcast {display: inline;  }
+        
+        .audio-buttons .icon-download {display:none;}
+        .audio-buttons .icon-play {width:80px;}
+        
+    }
+    
+    body.no-touch {
+   
+        .all-play .icon-download {display:inline;}
+        .all-play .icon-download.podcast {display:none;}
+        
+        a.big-download {display:inline;}
+        a.big-podcast {display: none;  }
+   
+    }
+    
+    
+    
+    #loader {position:fixed; top:0; left:0; width:100%; height:100%; background:#f5f2ed; z-index:900000000;}     
+    #nav { }
+    .overflow-visible {overflow:visible;}
+    
+    #chapters-wrapper {
+    	.single-chapter { float: left;}	
+    }
+    
+    .dragdealer {
+        border-radius: 0; 
+        overflow: hidden; 
+        position: relative; 
+        height:765px;
+        
+        .handle {
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            height: 100%; 
+            border-radius: 0; 
+            cursor: move; 
+            cursor: -webkit-grab;
+            cursor: -moz-grab; 
+            cursor: grab; 
+            
+            &:active {
+                cursor: -webkit-grabbing;
+                cursor: -moz-grabbing; 
+                cursor: grabbing; 
+            }
+
+            .single-chapter { 
+                float: left; 
+                position: relative; 
+                height: 100%;
+            }
+        }
+    } // end .dragdealer
+    
+    .prompt:hover {cursor:pointer;}
+    
+    .big-choice {position:relative;
+        .thanks {height:100%; position:absolute; width:100%; background:#f5f2ed; top:0; left:0; border:2px solid #393b3d; @include transition(all, 1s, ease-in-out);
+            &.hidden {opacity:0; pointer-events:none;}
+        }
+    }
+    
+   
+    #home {z-index:100000; position:relative; background:url(../img/bg-texture.jpg) 0 0 repeat;}
+    
+    #main-wrapper {position:relative; z-index:0;
+        &.fixed {position:fixed !important; top:0; left:0; right:0; z-index:0;}
+    }
+    
+    #scroll-placeholder {position:relative;}
+    
+    
+    @media screen and (max-width: 740px) { //adjustment for belt tightening 
+        #nav { margin-bottom: 10px;}
+        .dragdealer { height:665px;}
+    }
+    

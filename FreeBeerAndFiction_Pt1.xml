@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+
+<!-- PUT THE NAME OF YOUR PODCAST SITE HERE -->
+<title>Free Beer &amp; Fiction</title>
+
+<!-- PLACE A BRIEF DESCRIPTION OF YOUR SITE HERE -->
+<description>Free Beer &amp; Fiction is a creative writing workshop in which participants were given a month to write a short story, based on a specific topic, to be read aloud in under 20 minutes in front of an audience. Best enjoyed with a beer.</description>
+
+<!-- PLACE THE URL LINK TO YOUR SITE WITH HTTP:// -->
+<link>http://www.freebeerandfiction.com/</link>
+
+<!-- NAME OF COPYRIGHT HOLDER -->
+<copyright>Presented By The VIA Agency &#xA9; 2014 - 2015</copyright>
+
+<!-- WHAT LANGUAGE (this is englsh) -->
+<language>en-gb</language>
+
+<!-- DATE YOU BUILT THIS PODCAST -->
+<lastBuildDate>Wed, 02 Oct 2002 08:00:00 EST</lastBuildDate>
+
+<!-- put in a subtitle for your site -->
+<itunes:subtitle>To Beer That's Cold &amp; Stories Well Told</itunes:subtitle>
+
+<!-- main text that will describe your site in your podcast -->
+<itunes:summary>Free Beer &amp; Fiction is a creative writing workshop in which participants were given a month to write a short story, based on a specific topic, to be read aloud in under 20 minutes in front of an audience. Best enjoyed with a beer.</itunes:summary>
+
+<!-- what catagory decribes you, choose a few -->
+<itunes:category text="Comedy"/>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+<itunes:category text="Personal Journals"/>
+</itunes:category>
+
+<!-- key word to help search, comma between each word -->
+<itunes:keywords>Free Beer &amp, Free Beer and Fiction, Fiction, Storytelling, The VIA Agency, Spoken Word, Fiction, Live, Beer, Free Beer, Creative Writing</itunes:keywords>
+
+<!-- author name -->
+<itunes:author>The VIA Agency</itunes:author>
+	
+<!-- details of who runs this site -->
+<itunes:owner>
+	
+	<!-- your main email account so they can contact you if there is a problem -->
+	<itunes:email>freebeerandfiction@theviaagency.com</itunes:email>
+		
+	<!-- contact name -->
+	<itunes:name>The VIA Agency</itunes:name>
+	
+<!-- close owner section -->
+</itunes:owner>
+	
+<!-- location of image to be used on your site, href="http://..........." location on your web server -->
+<itunes:image href="http://freebeerandfiction.com/img/FBAF_logo.png"/>
+
+<!-- explicit - yes/no -->
+<itunes:explicit>yes</itunes:explicit>
+
+
+
+<!-- CHAPTER 1 - STORY 1 - KATHLEEN PARR  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: I'll Go First - Kathleen Parr</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.viaclients.com/staged/freebeer/1216/audio/2014/FreeBeerFiction-2014-ch01-IllGoFirst.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.viaclients.com/staged/freebeer/1216/audio/2014/FreeBeerFiction-2014-ch01-IllGoFirst.mp3" length="412" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.viaclients.com/staged/freebeer/1216/audio/2014/FreeBeerFiction-2014-ch01-IllGoFirst.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:52</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Kathleen Parr, I'll Go First, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Kathleen Parr</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 1 - STORY 2 - CHRIS GILBERT  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: In Dreams - Chris Gilbert</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Fband.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Fband.mp3" length="412" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Fband.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:52</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Chris Gilbert, In Dreams, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Chris Gilbert</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 1 - STORY 3 - STEVE HOLT  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: The Rattrap - Steve Holt</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Rattrap.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Rattrap.mp3" length="412" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-Rattrap.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:52</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Steve Holt, The Rattrap, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Steve Holt</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 1 - STORY 4 - TEDDY STOECKLEIN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>The First Time: It Was Quick - Teddy Stoecklein</title>
+
+<!-- description of the episode -->
+<description>Being our very first Free Beer &amp; Fiction assignment, what better topic than to write about “the first time?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-ItWasQuick.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-ItWasQuick.mp3" length="412" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch01-ItWasQuick.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Feb 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:52</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Teddy Stoecklein, It Was Quick, The First Time</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Teddy Stoecklein</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 2 - STORY 1 - JOHN COLEMAN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Love Gone Wrong: The Summer Of Love Lost - John Coleman</title>
+
+<!-- description of the episode -->
+<description>Soon after our first Free Beer &amp; Fiction meeting was Valentine’s Day, which inspired our second topic, “Love Gone Wrong.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-SummerOfLoveLost.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-SummerOfLoveLost.mp3" length="1313" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-SummerOfLoveLost.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Mar 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>21:53</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>John Coleman, The Summer Of Love Lost, Love Gone Wrong</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>John Coleman</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 2 - STORY 2 - JESSICA FIDALGO  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Love Gone Wrong: Reception - Jessica Fidalgo</title>
+
+<!-- description of the episode -->
+<description>Soon after our first Free Beer &amp; Fiction meeting was Valentine’s Day, which inspired our second topic, “Love Gone Wrong.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-Reception.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-Reception.mp3" length="1169" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-Reception.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Mar 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>19:29</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Jessica Fidalgo, Reception, Love Gone Wrong</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Jessica Fidalgo</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 2 - STORY 3 - JAMIE HOLT  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Love Gone Wrong: Love Gone Wrong - Jamie Holt</title>
+
+<!-- description of the episode -->
+<description>Soon after our first Free Beer &amp; Fiction meeting was Valentine’s Day, which inspired our second topic, “Love Gone Wrong.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-LoveGoneWrong.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-LoveGoneWrong.mp3" length="237" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch02-LoveGoneWrong.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Mar 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>03:57</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Jamie Holt, Love Gone Wrong</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Jamie Holt</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 3 - STORY 1 - CHRIS JACOBS  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Metamorphosis: The Obscelescence of Bill - Chris Jacobs</title>
+
+<!-- description of the episode -->
+<description>Spring was in the air, which meant a welcome change in the weather in Maine. Hence the theme “Metamorphosis.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-ObsolescenceOfBill.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-ObsolescenceOfBill.mp3" length="811" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-ObsolescenceOfBill.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 03 Apr 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>13:31</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>>Metamorphosis, The Obscelescence of Bill, Chris Jacobs</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Chris Jacobs</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 3 - STORY 2 - JESSICA FIDALGO  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Metamorphosis: Snow - Jessica Fidalgo</title>
+
+<!-- description of the episode -->
+<description>Spring was in the air, which meant a welcome change in the weather in Maine. Hence the theme “Metamorphosis.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-Snow.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-Snow.mp3" length="385" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-Snow.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 03 Apr 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:25</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>>Metamorphosis, Snow, Jessica Fidalgo</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Jessica Fidalgo</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 3 - STORY 3 - JESSICA FIDALGO  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Metamorphosis: A Tuesday, Ruined - Brett Willis</title>
+
+<!-- description of the episode -->
+<description>Spring was in the air, which meant a welcome change in the weather in Maine. Hence the theme “Metamorphosis.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-TuesdayRuined.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-TuesdayRuined.mp3" length="811" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch03-TuesdayRuined.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 03 Apr 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>13:31</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>>Metamorphosis, A Tuesday Ruined, Brett Willis</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Brett Willis</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 4 - STORY 1 - LEAH ROHNER  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Surprised: Forrest - Leah Rohner</title>
+
+<!-- description of the episode -->
+<description>They say March is “in like a lion, out like a lamb?” Well, in Maine, just when you think winter has passed, you get blasted with a late winter storm, which led to this month’s theme: “Surprised.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-Forrest.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-Forrest.mp3" length="492" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-Forrest.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 01 May 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>08:12</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Surprised, Forrest, Leah Rohner</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Leah Rohner</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 4 - STORY 2 - DAN PAPPAS  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Surprised: 15 To Freedon - Dan Pappas</title>
+
+<!-- description of the episode -->
+<description>They say March is “in like a lion, out like a lamb?” Well, in Maine, just when you think winter has passed, you get blasted with a late winter storm, which led to this month’s theme: “Surprised.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-15ToFreedom.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-15ToFreedom.mp3" length="729" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-15ToFreedom.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 01 May 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>12:09</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Surprised, 15 To Freedom, Dan Pappas</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Dan Pappas</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 4 - STORY 3 - MIKE DAITCH  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Surprised: The Life And Death Of Andy Moog - Mike Daitch</title>
+
+<!-- description of the episode -->
+<description>They say March is “in like a lion, out like a lamb?” Well, in Maine, just when you think winter has passed, you get blasted with a late winter storm, which led to this month’s theme: “Surprised.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-LifeDeathOfAndyMoog.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-LifeDeathOfAndyMoog.mp3" length="512" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-LifeDeathOfAndyMoog.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 01 May 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>08:32</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Surprised, The Life And Death Of Andy Moog, Mike Daitch</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Mike Daitch</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 4 - STORY 4 - GREG SMITH  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Surprised: Never The Why - Greg Smith</title>
+
+<!-- description of the episode -->
+<description>They say March is “in like a lion, out like a lamb?” Well, in Maine, just when you think winter has passed, you get blasted with a late winter storm, which led to this month’s theme: “Surprised.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-NeverTheWhy.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-NeverTheWhy.mp3" length="1306" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch04-NeverTheWhy.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 01 May 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>21:46</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Surprised, Never The Why, Greg Smith</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Greg Smith</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 5 - STORY 1 - MARY HANIFIN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Heat: My Girls - Mary Hanifin</title>
+
+<!-- description of the episode -->
+<description>When your spring is more like winter, can you blame us Mainers for looking forward to a little “Heat?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-MyGirls.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-MyGirls.mp3" length="1207" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-MyGirls.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 05 Jun 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>20:07</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Heat, My Girls, Mary Hanifin</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Mary Hanifin</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 5 - STORY 2 - SVEN FAHLGREN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Heat: The Lions Guide - Sven Fahlgren</title>
+
+<!-- description of the episode -->
+<description>When your spring is more like winter, can you blame us Mainers for looking forward to a little “Heat?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-LionGuides.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-LionGuides.mp3" length="926" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-LionGuides.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 05 Jun 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>15:26</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Heat, The Lions Guide, Sven Fahlgren</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Sven Fahlgren</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 5 - STORY 3 - PATRICK KRULIK  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Heat: Jeremy, The Glow Worm - Patrick Krulik</title>
+
+<!-- description of the episode -->
+<description>When your spring is more like winter, can you blame us Mainers for looking forward to a little “Heat?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-JeremyTheGloWorm.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-JeremyTheGloWorm.mp3" length="665" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch05-JeremyTheGloWorm.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 05 Jun 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>11:05</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Heat, Jeremy The Glow Worm, Patrick Krulik</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Patrick Krulik</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 6 - STORY 1 - KELLY SCHARF  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Made In America: Ode To Opa - Kelly Scharf</title>
+
+<!-- description of the episode -->
+<description>July 4th is one of our favorite holidays. To honor our great nation, this month’s theme was “Made in America.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-OdeToOpa.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-OdeToOpa.mp3" length="974" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-OdeToOpa.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 10 Jul 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>16:14</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Made In America, Ode To Opa, Kelly Scharf</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Kelly Scharf</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 6 - STORY 2 - AIMEE KUDLAK  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Made In America: May De Amer&#205;ca - Aimee A. Kudlak</title>
+
+<!-- description of the episode -->
+<description>July 4th is one of our favorite holidays. To honor our great nation, this month’s theme was “Made in America.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-MayDeAmerika.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-MayDeAmerika.mp3" length="1307" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-MayDeAmerika.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 10 Jul 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>21:47</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Made In America, May De America, Aimee Kudlak</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Aimee A. Kudlak</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 6 - STORY 3 - REPRESENTATION  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Made In America: Representation - Chris Jacobs</title>
+
+<!-- description of the episode -->
+<description>July 4th is one of our favorite holidays. To honor our great nation, this month’s theme was “Made in America.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-Representation.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-Representation.mp3" length="796" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch06-Representation.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 10 Jul 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>13:16</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Made In America, Representation, Chris Jacobs</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Chris Jacobs</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 7 - STORY 1 - HASHTAG BESTIES  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Good Company: Hashtag Besties - Jessica Fidalgo</title>
+
+<!-- description of the episode -->
+<description>In early August we have our annual summer party. It’s a gathering of colleagues without conference calls, spreadsheets and presentations. Just music, food, beer and “Good Company.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch07-HashtagBesties.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch07-HashtagBesties.mp3" length="990" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch07-HashtagBesties.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 07 Aug 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>16:30</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Good Company, Hashtag Beties, Jessica Fidalgo</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Jessica Fidalgo</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 7 - STORY 2 - THE GATHERING  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Good Company: The Gathering - Bobby Pfeiffenberger</title>
+
+<!-- description of the episode -->
+<description>In early August we have our annual summer party. It’s a gathering of colleagues without conference calls, spreadsheets and presentations. Just music, food, beer and “Good Company.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch07-TheGathering.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch07-TheGathering.mp3" length="370" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch07-TheGathering.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 07 Aug 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>06:10</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Good Company, The Gathering, Bobby Pfeiffenbergero</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Bobby Pfeiffenberger</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 8 - STORY 1 - GREG SMITH  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Schooled: The Ningkatok Road - Greg Smith</title>
+
+<!-- description of the episode -->
+<description>The end of summer means it’s back to school for so many of our kids. And so, September’s theme was “Schooled.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-NingkatokRoad.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-NingkatokRoad.mp3" length="614" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-NingkatokRoad.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 04 Sep 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>10:14</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Schooled, The Ningkatok Road, Greg Smith</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Greg Smith</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 8 - STORY 2 - STEVE HOLT  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Schooled: The Griffin Richards School For The Damned - Steve Holt</title>
+
+<!-- description of the episode -->
+<description>The end of summer means it’s back to school for so many of our kids. And so, September’s theme was “Schooled.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-GriffinRichardsSchool.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-GriffinRichardsSchool.mp3" length="614" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-GriffinRichardsSchool.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 04 Sep 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>10:14</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Schooled, The Griddin Richards School For The Damned, Steve Holt</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Steve Holt</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 8 - STORY 3 - STEVE STREET  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Schooled: Skooled (First Draft) - Steve Street</title>
+
+<!-- description of the episode -->
+<description>The end of summer means it’s back to school for so many of our kids. And so, September’s theme was “Schooled.”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-Skooled.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-Skooled.mp3" length="691" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch08-Skooled.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 04 Sep 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>11:31</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Schooled, Skooled, Kyuss, Steve Street</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Steve Street</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 9 - STORY 1 - SALLY ALLEN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Spooky: Search And Rescue - Sally Allen</title>
+
+<!-- description of the episode -->
+<description>We all love Halloween. And October first means we get to unpack all our goblins and ghouls to decorate our homes. Why not kick the month off with the theme “Spooky?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-SearchAndRescue.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-SearchAndRescue.mp3" length="1437" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-SearchAndRescue.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 02 Oct 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>23:57</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Spooky, Search And Rescue, Sally Allen</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Sally Allen</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 9 - STORY 2 - MOYA FRY  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Spooky: Spooky Story - Moya Fry</title>
+
+<!-- description of the episode -->
+<description>We all love Halloween. And October first means we get to unpack all our goblins and ghouls to decorate our homes. Why not kick the month off with the theme “Spooky?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-SpookyStory.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-SpookyStory.mp3" length="652" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-SpookyStory.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 02 Oct 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>10:52</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Spooky, Spooky Story, Moya Fry</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Moya Fry</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 9 - STORY 3 - JUDI CUTRONE  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Spooky: Into The Forest Dark - Judi Cutrone</title>
+
+<!-- description of the episode -->
+<description>We all love Halloween. And October first means we get to unpack all our goblins and ghouls to decorate our homes. Why not kick the month off with the theme “Spooky?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-IntoTheForestDark.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-IntoTheForestDark.mp3" length="1184" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-IntoTheForestDark.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 02 Oct 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>19:44</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Spooky, Into The Forest Dark, Judi Cutrone</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Judi Cutrone</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 9 - STORY 4 - TEDDY STOECKLEIN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Spooky: We're Already Dead - Teddy Stoecklein</title>
+
+<!-- description of the episode -->
+<description>We all love Halloween. And October first means we get to unpack all our goblins and ghouls to decorate our homes. Why not kick the month off with the theme “Spooky?”</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-WereAlreadyDead.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-WereAlreadyDead.mp3" length="510" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch09-WereAlreadyDead.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 02 Oct 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>08:30</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Spooky, We're Already Dead, Teddy Stocklein</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Teddy Stocklein</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+
+<!-- CHAPTER 10 - STORY 1 - TEDDY STOECKLEIN  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Fuck Canada: Prologue - Teddy Stoecklein</title>
+
+<!-- description of the episode -->
+<description>November 4 meant elections. And so we voted for this month’s theme, democratically. The choices were “Turkey,” “Thankful,” or the completely random “Fuck Canada.” Well, so much for democracy.</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-Prologue.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-Prologue.mp3" length="297" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-Prologue.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Nov 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>04:57</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Fuck Canada, Prologue, Teddy Stoecklein</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Teddy Stocklein</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 10 - STORY 2 - STEPHEN DAVIS  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Fuck Canada: O Canada - Stephen Davis</title>
+
+<!-- description of the episode -->
+<description>November 4 meant elections. And so we voted for this month’s theme, democratically. The choices were “Turkey,” “Thankful,” or the completely random “Fuck Canada.” Well, so much for democracy.</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-OCanada.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-OCanada.mp3" length="1320" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-OCanada.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Nov 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>22:00</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Fuck Canada, O Canada, Stephen Davis</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Stephen Davis</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+<!-- CHAPTER 10 - STORY 3 - PETE WIERNUSZ  -->
+<item>
+
+<!-- first web cast- leave a note so you know it is the first episode, when there is a lot of code you can forget which item you are looking at -->
+
+<!-- tilte of your episode -->
+<title>Fuck Canada: A Shot In The Dark - Pete Wiernusz</title>
+
+<!-- description of the episode -->
+<description>November 4 meant elections. And so we voted for this month’s theme, democratically. The choices were “Turkey,” “Thankful,” or the completely random “Fuck Canada.” Well, so much for democracy.</description>
+
+<!-- Link to the file on your web server http://.......... -->
+<link>http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-ShotInTheDark.mp3</link>
+
+<!-- location of eposode (url) on web server with detail of the file length in seconds, file type, Audio "audio/mpeg", video ""video/x-m4v" or PDF "application/pdf". All information is in the <>, nothing between <....></....> -->
+<enclosure url="http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-ShotInTheDark.mp3" length="1005" type="audio/mpeg" ></enclosure>
+
+<!-- location of your file on the web server -->
+<guid isPermaLink="true">http://www.freebeerandfiction.com/audio/2014/FreeBeerFiction-2014-ch10-ShotInTheDark.mp3</guid>
+
+<!-- published date and time -->
+<pubDate>Thu, 06 Nov 2014 18:00:00 EST</pubDate>
+
+<!-- length of your episode 05:23, HH:MM:SS this will appear next to the title -->
+<itunes:duration>16:45</itunes:duration>
+
+<!-- keyword for this episode, to help searching -->
+<itunes:keywords>Fuck Canada, A Shot In The Dark, Steve Wiernusz</itunes:keywords>
+
+<!-- author of the episode -->
+<itunes:author>Steve Wiernusz</itunes:author>
+
+<!-- is this episode explicit or not, yes/no -->
+<itunes:explicit>Yes</itunes:explicit>
+
+<!-- close this episode, copy <item> for new episode -->
+</item>
+
+
+<!-- close whole channel information, end of podcast -->
+</channel>
+ 
+<!-- close rss feed -->
+</rss>
