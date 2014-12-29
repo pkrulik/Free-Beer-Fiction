@@ -40,8 +40,14 @@ var loadBarWidth;
 
 
 
+
+
 // reset dimensions initially
 reset();
+
+
+
+
 
 
 // ============================== //
